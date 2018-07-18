@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY_ID = 'You amazon api key id - https://aws.amazon.com/iam/'
+AWS_SECRET_ACCESS_KEY = 'Your amazon secret access key - https://aws.amazon.com/iam/'
+REGION = 'aws region'
+S3BUCKETWHERESOUNDFILEIS='S3 Bucket where the sound files will be uploaded'
+S3BUCKETWHEREJSONFILEGOES ='S3 Bucket where you want transcribe to place the JSON file'
